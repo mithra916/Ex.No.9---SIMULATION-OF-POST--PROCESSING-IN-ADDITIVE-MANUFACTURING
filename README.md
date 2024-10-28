@@ -46,9 +46,14 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/2ab83506-b20f-4a43-a003-4e5132939aa7)
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/dd0330c0-36ba-4e45-845d-cd5499ca60f7)
+
+![image](https://github.com/user-attachments/assets/a6f0f0d0-4024-48ba-8ab9-7d32af4d11e9)
+
+### Name: LOGA MITHRA R
+### Register Number: 212223100027
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
